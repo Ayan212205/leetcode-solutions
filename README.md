@@ -68,9 +68,14 @@ LeetCode/
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ayan212205/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ayan212205/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
