@@ -59,6 +59,7 @@ LeetCode/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -89,6 +90,7 @@ LeetCode/
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -106,4 +108,8 @@ LeetCode/
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
