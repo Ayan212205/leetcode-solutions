@@ -86,4 +86,24 @@ LeetCode/
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
