@@ -83,6 +83,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -97,6 +98,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
@@ -106,6 +108,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
