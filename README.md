@@ -93,10 +93,12 @@ LeetCode/
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
