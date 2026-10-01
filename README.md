@@ -67,6 +67,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ayan212205/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -112,4 +113,12 @@ LeetCode/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
