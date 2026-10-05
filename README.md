@@ -94,6 +94,7 @@ LeetCode/
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayan212205/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
