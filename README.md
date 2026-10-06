@@ -83,6 +83,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -131,4 +132,12 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
