@@ -83,6 +83,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -144,6 +145,7 @@ LeetCode/
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
