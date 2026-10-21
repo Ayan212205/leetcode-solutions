@@ -86,6 +86,7 @@ LeetCode/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -123,6 +124,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
@@ -148,6 +150,7 @@ LeetCode/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
