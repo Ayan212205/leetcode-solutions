@@ -69,6 +69,7 @@ LeetCode/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayan212205/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ayan212205/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -146,9 +147,11 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
@@ -160,4 +163,8 @@ LeetCode/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayan212205/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
