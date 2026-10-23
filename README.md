@@ -63,6 +63,7 @@ LeetCode/
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0263-ugly-number) |
+| [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -170,4 +171,8 @@ LeetCode/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
