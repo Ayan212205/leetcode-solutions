@@ -64,6 +64,7 @@ LeetCode/
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0263-ugly-number) |
 | [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -175,4 +176,17 @@ LeetCode/
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
