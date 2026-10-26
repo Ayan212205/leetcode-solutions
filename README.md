@@ -66,6 +66,7 @@ LeetCode/
 | [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/Ayan212205/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ LeetCode/
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [3895-count-digit-appearances](https://github.com/Ayan212205/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
 | ------- |
