@@ -91,6 +91,7 @@ LeetCode/
 | ------- |
 | [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -174,6 +175,7 @@ LeetCode/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -191,4 +193,8 @@ LeetCode/
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
