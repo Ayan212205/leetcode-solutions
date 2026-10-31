@@ -80,6 +80,7 @@ LeetCode/
 ## Simulation
 |  |
 | ------- |
+| [3701-compute-alternating-sum](https://github.com/Ayan212205/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ LeetCode/
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [3701-compute-alternating-sum](https://github.com/Ayan212205/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Ayan212205/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
