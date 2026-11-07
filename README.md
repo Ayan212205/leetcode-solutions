@@ -76,6 +76,7 @@ LeetCode/
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayan212205/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Ayan212205/leetcode-solutions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ayan212205/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -98,6 +99,7 @@ LeetCode/
 | [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ayan212205/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayan212205/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -108,6 +110,7 @@ LeetCode/
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ayan212205/leetcode-solutions/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -170,6 +173,7 @@ LeetCode/
 | [0046-permutations](https://github.com/Ayan212205/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayan212205/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ayan212205/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -206,4 +210,8 @@ LeetCode/
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ayan212205/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
