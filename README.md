@@ -65,6 +65,7 @@ LeetCode/
 | [0263-ugly-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayan212205/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
@@ -82,6 +83,7 @@ LeetCode/
 ## Simulation
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3701-compute-alternating-sum](https://github.com/Ayan212205/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Hash Table
