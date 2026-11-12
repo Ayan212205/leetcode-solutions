@@ -60,6 +60,7 @@ LeetCode/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayan212205/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Ayan212205/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/Ayan212205/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -189,6 +190,7 @@ LeetCode/
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayan212205/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ayan212205/leetcode-solutions/tree/master/0062-unique-paths) |
 ## Number Theory
 |  |
 | ------- |
@@ -214,4 +216,8 @@ LeetCode/
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ayan212205/leetcode-solutions/tree/master/0079-word-search) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ayan212205/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
