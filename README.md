@@ -69,6 +69,7 @@ LeetCode/
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ayan212205/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3894-traffic-signal-color](https://github.com/Ayan212205/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Ayan212205/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## String
@@ -106,6 +107,7 @@ LeetCode/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayan212205/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3701-compute-alternating-sum](https://github.com/Ayan212205/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Ayan212205/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Matrix
@@ -185,6 +187,7 @@ LeetCode/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayan212205/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,10 +199,12 @@ LeetCode/
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Ayan212205/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
