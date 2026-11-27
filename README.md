@@ -109,6 +109,7 @@ LeetCode/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayan212205/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1672-richest-customer-wealth](https://github.com/Ayan212205/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Ayan212205/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3701-compute-alternating-sum](https://github.com/Ayan212205/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Ayan212205/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -151,6 +152,7 @@ LeetCode/
 | [0088-merge-sorted-array](https://github.com/Ayan212205/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ayan212205/leetcode-solutions/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayan212205/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Ayan212205/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Merge Sort
 |  |
 | ------- |
@@ -205,6 +207,7 @@ LeetCode/
 ## Enumeration
 |  |
 | ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Ayan212205/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2427-number-of-common-factors](https://github.com/Ayan212205/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ayan212205/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
@@ -219,6 +222,7 @@ LeetCode/
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ayan212205/leetcode-solutions/tree/master/0055-jump-game) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Ayan212205/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,4 +231,8 @@ LeetCode/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayan212205/leetcode-solutions/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Ayan212205/leetcode-solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
